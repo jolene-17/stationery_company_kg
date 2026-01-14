@@ -1,0 +1,11 @@
+machine_id,process_id,primary_flag,setup_time_min,changeover_type
+M001,P001,TRUE,45,Recipe
+M002,P002,TRUE,120,Grade
+M003,P003,TRUE,35,Width
+M004,P004,TRUE,30,Tooling
+M005,P005,TRUE,60,Plate/Color
+M006,P006,TRUE,40,Coating
+M007,P007,TRUE,25,Film
+M008,P008,TRUE,20,Format
+M009,P009,TRUE,15,SKU
+M010,P010,TRUE,10,SamplingPlan
