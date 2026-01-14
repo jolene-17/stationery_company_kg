@@ -1,0 +1,7 @@
+"metric_name,metric_category,unit,better_direction,description"
+"OEE_pct,Utilization,percent,Higher,Overall equipment effectiveness"
+"throughput_per_hr,Performance,units_per_hr,Higher,Output rate for the machine's main unit"
+"defect_rate_pct,Quality,percent,Lower,Percent of units failing inspection"
+"downtime_min,Availability,minutes,Lower,Total downtime minutes for the day"
+"energy_kwh_per_1000,Cost,kWh_per_1000,Lower,Energy used per 1000 units produced"
+"scrap_rate_pct,Waste,percent,Lower,Material scrap percentage"
