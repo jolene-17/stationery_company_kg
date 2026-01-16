@@ -1,11 +1,11 @@
 machine_id,machine_name,machine_type,manufacturer,model,location,install_date,status,nominal_capacity,capacity_unit,criticality
-M001,Hydrapulp Mixer 1,Hydrapulper,Voith,HP-3000,PlantA-Prep,12/4/2019,Running,3000,kg_batch,High
-M002,Fourdrinier Line 1,Paper Machine,Valmet,FD-1200,PlantA-Forming,25/9/2017,Running,12,tons_hr,High
-M003,Slitter-Rewinder 2,Slitter/Rewinder,ATLAS,SR-900,PlantA-Converting,18/2/2020,Running,900,m_min,Medium
-M004,Rotary Die Cutter 1,Die Cutter,Bobst,RDC-500,PlantA-Converting,8/6/2021,Running,500,sheets_min,High
-M005,Offset Press 3,Offset Printing Press,Heidelberg,SM-74,PlantA-Printing,30/11/2018,Running,12000,sheets_hr,High
-M006,Coater 1,Roll Coater,Mathis,RC-800,PlantA-Finishing,14/3/2022,Running,800,m_min,Medium
-M007,Thermal Laminator 2,Laminator,GBC,TL-700,PlantA-Finishing,5/10/2020,Running,700,m_min,Medium
-M008,Spiral Binder 1,Binding Machine,RENZ,SB-360,PlantA-Assembly,19/7/2019,Running,360,books_hr,High
-M009,Cartoner-Packager 1,Packaging Line,Multivac,CP-200,PlantA-Packaging,27/1/2021,Running,200,boxes_hr,High
-M010,Vision QC Scanner 1,Vision Inspection System,Cognex,VS-4K,PlantA-QC,11/9/2023,Running,150,items_min,High
+M001,Hydrapulp Mixer 1,Hydrapulper,Voith,HP-3000,PlantA-Prep,2019-04-12,Running,3000,kg_batch,High
+M002,Fourdrinier Line 1,Paper Machine,Valmet,FD-1200,PlantA-Forming,2017-09-25,Running,12,tons_hr,High
+M003,Slitter-Rewinder 2,Slitter/Rewinder,ATLAS,SR-900,PlantA-Converting,2020-02-18,Running,900,m_min,Medium
+M004,Rotary Die Cutter 1,Die Cutter,Bobst,RDC-500,PlantA-Converting,2021-06-08,Running,500,sheets_min,High
+M005,Offset Press 3,Offset Printing Press,Heidelberg,SM-74,PlantA-Printing,2018-11-30,Running,12000,sheets_hr,High
+M006,Coater 1,Roll Coater,Mathis,RC-800,PlantA-Finishing,2022-03-14,Running,800,m_min,Medium
+M007,Thermal Laminator 2,Laminator,GBC,TL-700,PlantA-Finishing,2020-10-05,Running,700,m_min,Medium
+M008,Spiral Binder 1,Binding Machine,RENZ,SB-360,PlantA-Assembly,2019-07-19,Running,360,books_hr,High
+M009,Cartoner-Packager 1,Packaging Line,Multivac,CP-200,PlantA-Packaging,2021-01-27,Running,200,boxes_hr,High
+M010,Vision QC Scanner 1,Vision Inspection System,Cognex,VS-4K,PlantA-QC,2023-09-11,Running,150,items_min,High

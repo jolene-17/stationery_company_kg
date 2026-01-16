@@ -1,19 +1,19 @@
 employee_id,full_name,role,shift,certifications,hire_date
-E001,Aisha Rahman,Machine Operator,Day,"Forklift,LOTO",15/3/2021
-E002,Wei Ming Tan,Process Technician,Night,"LOTO,Hydraulics",2/11/2020
-E003,Harpreet Singh,Maintenance Technician,Day,"LOTO,Pneumatics",10/6/2019
-E004,Mei Lin Koh,Quality Inspector,Day,"ISO9001,QMS",24/1/2022
-E005,Daniel Ong,Machine Operator,Night,Forklift,8/5/2023
-E006,Siti Nur Huda,Process Technician,Day,"LOTO,Chemical Handling",19/8/2021
-E007,Arjun Nair,Shift Supervisor,Day,"ISO9001,Lean",3/9/2018
-E008,Grace Lim,Shift Supervisor,Night,"Lean,Six Sigma GB",14/2/2017
-E009,Chen Yu,Machine Operator,Day,LOTO,11/10/2022
-E010,Nurul Izzah,Quality Inspector,Night,ISO9001,27/4/2020
-E011,Marcus Lee,Production Planner,Day,"ERP,MES",5/12/2019
-E012,Priya Iyer,Machine Operator,Day,"LOTO,Forklift",30/7/2021
-E013,Alvin Goh,Maintenance Technician,Night,"Pneumatics,LOTO",21/5/2018
-E014,Farah Aziz,Safety Officer,Day,"WSH,LOTO",17/1/2019
-E015,Jun Kai Wong,Process Engineer,Day,"Lean,Six Sigma BB",29/8/2016
-E016,Yuki Nakamura,Machine Operator,Night,LOTO,6/2/2023
-E017,Lim Jia Hui,Warehouse Associate,Day,Forklift,13/6/2022
-E018,Mohamed Rizwan,Utilities Technician,Day,"Boiler Ops,LOTO",9/9/2020
+E001,Aisha Rahman,Machine Operator,Day,"Forklift,LOTO",2021-03-15
+E002,Wei Ming Tan,Process Technician,Night,"LOTO,Hydraulics",2020-11-02
+E003,Harpreet Singh,Maintenance Technician,Day,"LOTO,Pneumatics",2019-06-10
+E004,Mei Lin Koh,Quality Inspector,Day,"ISO9001,QMS",2022-01-24
+E005,Daniel Ong,Machine Operator,Night,Forklift,2023-05-08
+E006,Siti Nur Huda,Process Technician,Day,"LOTO,Chemical Handling",2021-08-19
+E007,Arjun Nair,Shift Supervisor,Day,"ISO9001,Lean",2018-09-03
+E008,Grace Lim,Shift Supervisor,Night,"Lean,Six Sigma GB",2017-02-14
+E009,Chen Yu,Machine Operator,Day,LOTO,2022-10-11
+E010,Nurul Izzah,Quality Inspector,Night,ISO9001,2020-04-27
+E011,Marcus Lee,Production Planner,Day,"ERP,MES",2019-12-05
+E012,Priya Iyer,Machine Operator,Day,"LOTO,Forklift",2021-07-30
+E013,Alvin Goh,Maintenance Technician,Night,"Pneumatics,LOTO",2018-05-21
+E014,Farah Aziz,Safety Officer,Day,"WSH,LOTO",2019-01-17
+E015,Jun Kai Wong,Process Engineer,Day,"Lean,Six Sigma BB",2016-08-29
+E016,Yuki Nakamura,Machine Operator,Night,LOTO,2023-02-06
+E017,Lim Jia Hui,Warehouse Associate,Day,Forklift,2022-06-13
+E018,Mohamed Rizwan,Utilities Technician,Day,"Boiler Ops,LOTO",2020-09-09
